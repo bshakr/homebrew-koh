@@ -3,8 +3,8 @@ class Koh < Formula
   homepage "https://github.com/bshakr/koh"
   url "https://github.com/bshakr/koh.git",
       using:    :git,
-      tag:      "v0.1.6",
-      revision: "cc5569b4188e2ab7ffe241dd2e9d4450c7fb1d12"
+      tag:      "v0.1.7",
+      revision: "b826fea9d747ac8fb376bf2f233aa48cce34695a"
   license "MIT"
   head "https://github.com/bshakr/koh.git", branch: "main"
 
